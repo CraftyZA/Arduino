@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnano_twi.a  CMakeFiles/nano_twi.dir/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries/Wire/src/Wire.cpp.obj CMakeFiles/nano_twi.dir/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries/Wire/src/utility/twi.c.obj
+/usr/bin/ranlib libnano_twi.a

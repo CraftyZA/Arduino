@@ -1,0 +1,10 @@
+/Users/ben/code/clion_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ben/code/clion_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ben/code/clion_test/cmake-build-debug/CMakeFiles/upload.dir
+/Users/ben/code/clion_test/cmake-build-debug/CMakeFiles/clion_test-upload.dir
+/Users/ben/code/clion_test/cmake-build-debug/CMakeFiles/clion_test.dir
+/Users/ben/code/clion_test/cmake-build-debug/CMakeFiles/nano_LiquidCrystal_I2C.dir
+/Users/ben/code/clion_test/cmake-build-debug/CMakeFiles/nano_twi.dir
+/Users/ben/code/clion_test/cmake-build-debug/CMakeFiles/clion_test-size.dir
+/Users/ben/code/clion_test/cmake-build-debug/CMakeFiles/nano_Wire.dir
+/Users/ben/code/clion_test/cmake-build-debug/CMakeFiles/nano_CORE.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnano_LiquidCrystal_I2C.a  CMakeFiles/nano_LiquidCrystal_I2C.dir/Users/ben/documents/Arduino/libraries/LiquidCrystal_I2C/LiquidCrystal_I2C.cpp.obj
+/usr/bin/ranlib libnano_LiquidCrystal_I2C.a
